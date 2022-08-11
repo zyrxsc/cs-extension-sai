@@ -1,0 +1,71 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/master/icon-animesogo.png",
+        "fileHash": "sha256-ae3ad35c878c61b256a8f0d698716ae37ec039c81bc3267b01d70c115cc6ea35",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/zyrxsc/cs-extension-sai",
+        "fileSize": 2318,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "zyrxsc"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA",
+            "AnimeMovie",
+            "Music"
+        ],
+        "version": 1,
+        "internalName": "AnimeSogo",
+        "description": "AnimeSogo",
+        "url": "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/builds/AnimeSogo.cs3",
+        "name": "AnimeSogo"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/master/icon-anisuge.png",
+        "fileHash": "sha256-787b70f3b1c1656afa3fe51e1454abe9fa60f03e6b8a6858e3b24a1030fa7eb3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/zyrxsc/cs-extension-sai",
+        "fileSize": 2316,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "zyrxsc"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA",
+            "AnimeMovie",
+            "Music"
+        ],
+        "version": 1,
+        "internalName": "AniSuge",
+        "description": "AniSuge",
+        "url": "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/builds/AniSuge.cs3",
+        "name": "AniSuge"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/master/icon-reanime.png",
+        "fileHash": "sha256-1e020e93ab320df3c501ab370bdeb67a149cd5ef973e4c62ee6d106bc9698db1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/zyrxsc/cs-extension-sai",
+        "fileSize": 2308,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "zyrxsc"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA",
+            "AnimeMovie",
+            "Music"
+        ],
+        "version": 1,
+        "internalName": "ReAnime",
+        "description": "ReAnime",
+        "url": "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/builds/ReAnime.cs3",
+        "name": "ReAnime"
+    }
+]
