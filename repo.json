@@ -1,7 +1,8 @@
 {
-  "name": "zyrxsc",
+  "name": "Sai's Extension",
   "description": "Private curated CloudStream plugins",
   "manifestVersion": 1,
+  "iconUrl": "https://github.com/zyrxsc.png",
   "pluginLists": [
     "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/builds/plugins.json"
   ]
