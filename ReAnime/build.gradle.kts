@@ -6,5 +6,5 @@ cloudstream {
     status = 1
     tvTypes = listOf("Anime", "OVA", "AnimeMovie", "Music")
     language = "en"
-    iconUrl = "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/master/icon.jpg"
+    iconUrl = "https://raw.githubusercontent.com/zyrxsc/cs-extension-sai/master/icon-reanime.png"
 }
